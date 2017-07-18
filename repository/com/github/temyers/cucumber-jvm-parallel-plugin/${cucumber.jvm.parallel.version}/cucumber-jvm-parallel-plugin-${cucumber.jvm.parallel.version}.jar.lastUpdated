@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 17 19:25:16 IST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1500299716038
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.github.temyers\:cucumber-jvm-parallel-plugin\:jar\:${cucumber.jvm.parallel.version} from/to central (https\://repo.maven.apache.org/maven2)\: Illegal character in path at index 86\: https\://repo.maven.apache.org/maven2/com/github/temyers/cucumber-jvm-parallel-plugin/${cucumber.jvm.parallel.version}/cucumber-jvm-parallel-plugin-${cucumber.jvm.parallel.version}.jar

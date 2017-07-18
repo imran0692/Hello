@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>maven_edit</groupId>
+  <artifactId>maven_edit</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170220070138</lastUpdated>
+  </versioning>
+</metadata>

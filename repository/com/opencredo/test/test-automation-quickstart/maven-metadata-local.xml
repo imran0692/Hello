@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.opencredo.test</groupId>
+  <artifactId>test-automation-quickstart</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170717130344</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 17 16:02:09 IST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1500287529860
+@default-codehaus-http\://repository.codehaus.org/.lastUpdated=1500286778230
+http\://repository.codehaus.org/.error=Could not transfer artifact info.cukes\:cucumber-core\:pom\:1.2.4 from/to codehaus (http\://repository.codehaus.org)\: repository.codehaus.org
